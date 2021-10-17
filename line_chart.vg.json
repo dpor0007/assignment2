@@ -16,7 +16,7 @@
     "encoding": 
     {
         "x": {"field": "Year", "type": "temporal"},
-        "y": {"field": "amount", "type": "quantitative"},
+        "y": {"field": "amount", "type": "quantitative", "title": "Percentage"},
         "color": 
         {
             "field": "source",
