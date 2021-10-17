@@ -1,0 +1,631 @@
+Region,Year,generated,source
+Africa,1985,258.9858381,Total
+Africa,1986,270.1096661,Total
+Africa,1987,280.2595253,Total
+Africa,1988,295.2956199,Total
+Africa,1989,306.6478297,Total
+Africa,1990,318.9210284,Total
+Africa,1991,324.9979973,Total
+Africa,1992,328.020152,Total
+Africa,1993,339.205339,Total
+Africa,1994,351.4704101,Total
+Africa,1995,362.7282133,Total
+Africa,1996,382.192337,Total
+Africa,1997,400.909743,Total
+Africa,1998,406.3086444,Total
+Africa,1999,418.4042121,Total
+Africa,2000,438.4965723,Total
+Africa,2001,456.3890891,Total
+Africa,2002,484.0474703,Total
+Africa,2003,505.1997205,Total
+Africa,2004,536.0148207,Total
+Africa,2005,555.8101614,Total
+Africa,2006,581.4589962,Total
+Africa,2007,605.508949,Total
+Africa,2008,619.5287432,Total
+Africa,2009,627.0686268,Total
+Africa,2010,671.5794359,Total
+Africa,2011,689.0454023,Total
+Africa,2012,720.6385579,Total
+Africa,2013,743.4225102,Total
+Africa,2014,767.3794763,Total
+Africa,2015,787.3808428,Total
+Africa,2016,802.4727441,Total
+Africa,2017,828.0950568,Total
+Africa,2018,845.7954563,Total
+Africa,2019,870.1102509,Total
+Asia,1985,1750.523221,Total
+Asia,1986,1849.474372,Total
+Asia,1987,2016.041928,Total
+Asia,1988,2172.934015,Total
+Asia,1989,2343.95198,Total
+Asia,1990,2534.604295,Total
+Asia,1991,2688.45732,Total
+Asia,1992,2865.584962,Total
+Asia,1993,3030.875419,Total
+Asia,1994,3303.518318,Total
+Asia,1995,3531.352802,Total
+Asia,1996,3719.565623,Total
+Asia,1997,3905.808816,Total
+Asia,1998,4031.871016,Total
+Asia,1999,4234.550586,Total
+Asia,2000,4519.909657,Total
+Asia,2001,4728.982141,Total
+Asia,2002,5046.399955,Total
+Asia,2003,5411.594346,Total
+Asia,2004,5903.247811,Total
+Asia,2005,6361.636937,Total
+Asia,2006,6881.052057,Total
+Asia,2007,7479.906005,Total
+Asia,2008,7792.754184,Total
+Asia,2009,8068.131561,Total
+Asia,2010,8849.055166,Total
+Asia,2011,9481.569738,Total
+Asia,2012,9946.091383,Total
+Asia,2013,10516.85232,Total
+Asia,2014,11107.31275,Total
+Asia,2015,11258.66678,Total
+Asia,2016,11804.42186,Total
+Asia,2017,12477.89219,Total
+Asia,2018,13242.43512,Total
+Asia,2019,13646.59884,Total
+Europe,1985,2883.686131,Total
+Europe,1986,2946.476504,Total
+Europe,1987,3044.783414,Total
+Europe,1988,3130.354356,Total
+Europe,1989,3193.064746,Total
+Europe,1990,3212.792731,Total
+Europe,1991,3230.115765,Total
+Europe,1992,3190.362239,Total
+Europe,1993,3174.728257,Total
+Europe,1994,3192.618275,Total
+Europe,1995,3279.587267,Total
+Europe,1996,3353.864548,Total
+Europe,1997,3389.195436,Total
+Europe,1998,3466.419163,Total
+Europe,1999,3509.426879,Total
+Europe,2000,3620.282803,Total
+Europe,2001,3685.098394,Total
+Europe,2002,3718.568773,Total
+Europe,2003,3811.589001,Total
+Europe,2004,3898.059649,Total
+Europe,2005,3959.873797,Total
+Europe,2006,4015.794421,Total
+Europe,2007,4064.6933,Total
+Europe,2008,4088.564918,Total
+Europe,2009,3894.691692,Total
+Europe,2010,4065.763115,Total
+Europe,2011,4019.422767,Total
+Europe,2012,4052.399647,Total
+Europe,2013,4020.593111,Total
+Europe,2014,3938.483421,Total
+Europe,2015,3982.879444,Total
+Europe,2016,4023.096973,Total
+Europe,2017,4062.182767,Total
+Europe,2018,4067.160489,Total
+Europe,2019,3993.348855,Total
+North America,1985,3212.374003,Total
+North America,1986,3244.287083,Total
+North America,1987,3374.768367,Total
+North America,1988,3532.692403,Total
+North America,1989,3773.589427,Total
+North America,1990,3830.964434,Total
+North America,1991,3906.290432,Total
+North America,1992,3935.292412,Total
+North America,1993,4069.552553,Total
+North America,1994,4157.708487,Total
+North America,1995,4275.556188,Total
+North America,1996,4391.598772,Total
+North America,1997,4455.467215,Total
+North America,1998,4598.858828,Total
+North America,1999,4703.849938,Total
+North America,2000,4859.697274,Total
+North America,2001,4782.434635,Total
+North America,2002,4927.289764,Total
+North America,2003,4951.151555,Total
+North America,2004,5065.58895,Total
+North America,2005,5194.997787,Total
+North America,2006,5199.199043,Total
+North America,2007,5332.170513,Total
+North America,2008,5294.50596,Total
+North America,2009,5088.164378,Total
+North America,2010,5276.797422,Total
+North America,2011,5293.80201,Total
+North America,2012,5243.508028,Total
+North America,2013,5283.091761,Total
+North America,2014,5314.194586,Total
+North America,2015,5318.368443,Total
+North America,2016,5331.240569,Total
+North America,2017,5296.149518,Total
+North America,2018,5458.985253,Total
+North America,2019,5425.691344,Total
+South America,1985,407.8049923,Total
+South America,1986,438.9719347,Total
+South America,1987,461.0901826,Total
+South America,1988,483.4322662,Total
+South America,1989,496.2848806,Total
+South America,1990,508.5523076,Total
+South America,1991,534.0779269,Total
+South America,1992,550.6802432,Total
+South America,1993,582.0075339,Total
+South America,1994,611.1876146,Total
+South America,1995,646.3818316,Total
+South America,1996,678.8031705,Total
+South America,1997,717.648455,Total
+South America,1998,748.8858751,Total
+South America,1999,772.4345023,Total
+South America,2000,808.7073371,Total
+South America,2001,796.3786804,Total
+South America,2002,821.27783,Total
+South America,2003,861.1484707,Total
+South America,2004,901.8712353,Total
+South America,2005,943.1974084,Total
+South America,2006,988.3776551,Total
+South America,2007,1034.10648,Total
+South America,2008,1071.620316,Total
+South America,2009,1082.899219,Total
+South America,2010,1140.417977,Total
+South America,2011,1181.067525,Total
+South America,2012,1231.41028,Total
+South America,2013,1267.692693,Total
+South America,2014,1287.466167,Total
+South America,2015,1296.88237,Total
+South America,2016,1306.631996,Total
+South America,2017,1307.996819,Total
+South America,2018,1330.998232,Total
+South America,2019,1329.333286,Total
+Oceania,1985,189.4764193,Total
+Oceania,1986,197.5810945,Total
+Oceania,1987,206.368123,Total
+Oceania,1988,217.7670636,Total
+Oceania,1989,228.0845301,Total
+Oceania,1990,233.0480493,Total
+Oceania,1991,235.3946815,Total
+Oceania,1992,237.1511872,Total
+Oceania,1993,241.0044069,Total
+Oceania,1994,248.3794118,Total
+Oceania,1995,255.6109529,Total
+Oceania,1996,260.3471243,Total
+Oceania,1997,268.3694939,Total
+Oceania,1998,278.6252316,Total
+Oceania,1999,289.2040019,Total
+Oceania,2000,284.0920973,Total
+Oceania,2001,299.5296238,Total
+Oceania,2002,303.8810844,Total
+Oceania,2003,305.495952,Total
+Oceania,2004,318.8661626,Total
+Oceania,2005,314.208379,Total
+Oceania,2006,322.278766,Total
+Oceania,2007,335.7604848,Total
+Oceania,2008,338.8503995,Total
+Oceania,2009,342.5396123,Total
+Oceania,2010,354.751419,Total
+Oceania,2011,359.9930571,Total
+Oceania,2012,358.4491773,Total
+Oceania,2013,362.5647378,Total
+Oceania,2014,365.4334064,Total
+Oceania,2015,372.2872332,Total
+Oceania,2016,394.545268,Total
+Oceania,2017,407.2431694,Total
+Oceania,2018,406.9399251,Total
+Oceania,2019,428.7733678,Total
+Africa,1985,201.7364162,Fossil Fuels
+Africa,1986,207.6113981,Fossil Fuels
+Africa,1987,222.4950649,Fossil Fuels
+Africa,1988,229.0711109,Fossil Fuels
+Africa,1989,237.4875096,Fossil Fuels
+Africa,1990,250.4454274,Fossil Fuels
+Africa,1991,252.6000983,Fossil Fuels
+Africa,1992,258.7074995,Fossil Fuels
+Africa,1993,273.0009212,Fossil Fuels
+Africa,1994,281.829751,Fossil Fuels
+Africa,1995,289.3530212,Fossil Fuels
+Africa,1996,304.6093693,Fossil Fuels
+Africa,1997,320.4020893,Fossil Fuels
+Africa,1998,321.9076078,Fossil Fuels
+Africa,1999,330.5728156,Fossil Fuels
+Africa,2000,346.3188741,Fossil Fuels
+Africa,2001,362.5462045,Fossil Fuels
+Africa,2002,385.2595476,Fossil Fuels
+Africa,2003,406.8630638,Fossil Fuels
+Africa,2004,432.0836132,Fossil Fuels
+Africa,2005,452.3358942,Fossil Fuels
+Africa,2006,475.013282,Fossil Fuels
+Africa,2007,495.4798694,Fossil Fuels
+Africa,2008,504.7521015,Fossil Fuels
+Africa,2009,507.9460161,Fossil Fuels
+Africa,2010,540.9982492,Fossil Fuels
+Africa,2011,553.4922169,Fossil Fuels
+Africa,2012,585.6989807,Fossil Fuels
+Africa,2013,599.4358194,Fossil Fuels
+Africa,2014,613.670118,Fossil Fuels
+Africa,2015,632.3388583,Fossil Fuels
+Africa,2016,643.852327,Fossil Fuels
+Africa,2017,656.5951593,Fossil Fuels
+Africa,2018,667.1894181,Fossil Fuels
+Africa,2019,675.3030372,Fossil Fuels
+Asia,1985,1414.112644,Fossil Fuels
+Asia,1986,1495.631396,Fossil Fuels
+Asia,1987,1626.550427,Fossil Fuels
+Asia,1988,1770.193531,Fossil Fuels
+Asia,1989,1925.037866,Fossil Fuels
+Asia,1990,2087.600979,Fossil Fuels
+Asia,1991,2242.881232,Fossil Fuels
+Asia,1992,2386.135531,Fossil Fuels
+Asia,1993,2502.538769,Fossil Fuels
+Asia,1994,2774.081671,Fossil Fuels
+Asia,1995,2944.325126,Fossil Fuels
+Asia,1996,3124.905273,Fossil Fuels
+Asia,1997,3307.127796,Fossil Fuels
+Asia,1998,3401.49845,Fossil Fuels
+Asia,1999,3626.858402,Fossil Fuels
+Asia,2000,3893.140771,Fossil Fuels
+Asia,2001,4068.019472,Fossil Fuels
+Asia,2002,4346.117396,Fossil Fuels
+Asia,2003,4721.117923,Fossil Fuels
+Asia,2004,5092.537554,Fossil Fuels
+Asia,2005,5511.5115,Fossil Fuels
+Asia,2006,5953.391995,Fossil Fuels
+Asia,2007,6535.905706,Fossil Fuels
+Asia,2008,6834.613046,Fossil Fuels
+Asia,2009,7103.642109,Fossil Fuels
+Asia,2010,7735.421349,Fossil Fuels
+Asia,2011,8376.412751,Fossil Fuels
+Asia,2012,8786.748363,Fossil Fuels
+Asia,2013,9221.249243,Fossil Fuels
+Asia,2014,9711.076388,Fossil Fuels
+Asia,2015,9778.11002,Fossil Fuels
+Asia,2016,10128.41978,Fossil Fuels
+Asia,2017,10647.84488,Fossil Fuels
+Asia,2018,11272.41157,Fossil Fuels
+Asia,2019,11375.36194,Fossil Fuels
+Europe,1985,1633.846057,Fossil Fuels
+Europe,1986,1670.457356,Fossil Fuels
+Europe,1987,1697.593082,Fossil Fuels
+Europe,1988,1661.645623,Fossil Fuels
+Europe,1989,1754.502516,Fossil Fuels
+Europe,1990,1754.706632,Fossil Fuels
+Europe,1991,1740.858076,Fossil Fuels
+Europe,1992,1674.210952,Fossil Fuels
+Europe,1993,1599.977278,Fossil Fuels
+Europe,1994,1617.947283,Fossil Fuels
+Europe,1995,1661.804474,Fossil Fuels
+Europe,1996,1698.167871,Fossil Fuels
+Europe,1997,1693.839972,Fossil Fuels
+Europe,1998,1733.779592,Fossil Fuels
+Europe,1999,1756.559886,Fossil Fuels
+Europe,2000,1823.481402,Fossil Fuels
+Europe,2001,1854.405582,Fossil Fuels
+Europe,2002,1907.131124,Fossil Fuels
+Europe,2003,2005.074153,Fossil Fuels
+Europe,2004,2006.185415,Fossil Fuels
+Europe,2005,2050.184295,Fossil Fuels
+Europe,2006,2094.339124,Fossil Fuels
+Europe,2007,2158.815646,Fossil Fuels
+Europe,2008,2127.261291,Fossil Fuels
+Europe,2009,1960.362917,Fossil Fuels
+Europe,2010,1994.761794,Fossil Fuels
+Europe,2011,1971.8496,Fossil Fuels
+Europe,2012,1901.00598,Fossil Fuels
+Europe,2013,1786.569182,Fossil Fuels
+Europe,2014,1674.164894,Fossil Fuels
+Europe,2015,1669.603722,Fossil Fuels
+Europe,2016,1703.499148,Fossil Fuels
+Europe,2017,1738.232897,Fossil Fuels
+Europe,2018,1642.607838,Fossil Fuels
+Europe,2019,1518.523414,Fossil Fuels
+North America,1985,2088.498663,Fossil Fuels
+North America,1986,2063.797558,Fossil Fuels
+North America,1987,2177.430597,Fossil Fuels
+North America,1988,2287.345367,Fossil Fuels
+North America,1989,2481.735686,Fossil Fuels
+North America,1990,2455.344327,Fossil Fuels
+North America,1991,2468.682816,Fossil Fuels
+North America,1992,2513.601031,Fossil Fuels
+North America,1993,2604.888023,Fossil Fuels
+North America,1994,2668.543868,Fossil Fuels
+North America,1995,2692.336822,Fossil Fuels
+North America,1996,2749.443477,Fossil Fuels
+North America,1997,2869.04859,Fossil Fuels
+North America,1998,3029.097793,Fossil Fuels
+North America,1999,3053.143169,Fossil Fuels
+North America,2000,3214.794654,Fossil Fuels
+North America,2001,3213.482263,Fossil Fuels
+North America,2002,3273.795589,Fossil Fuels
+North America,2003,3314.45377,Fossil Fuels
+North America,2004,3385.195778,Fossil Fuels
+North America,2005,3478.739614,Fossil Fuels
+North America,2006,3452.165502,Fossil Fuels
+North America,2007,3591.103761,Fossil Fuels
+North America,2008,3499.188058,Fossil Fuels
+North America,2009,3284.323985,Fossil Fuels
+North America,2010,3462.519616,Fossil Fuels
+North America,2011,3377.512964,Fossil Fuels
+North America,2012,3362.757462,Fossil Fuels
+North America,2013,3331.267914,Fossil Fuels
+North America,2014,3331.287138,Fossil Fuels
+North America,2015,3319.436519,Fossil Fuels
+North America,2016,3245.204173,Fossil Fuels
+North America,2017,3113.187698,Fossil Fuels
+North America,2018,3230.982713,Fossil Fuels
+North America,2019,3171.952619,Fossil Fuels
+South America,1985,109.0737194,Fossil Fuels
+South America,1986,120.8446651,Fossil Fuels
+South America,1987,120.429315,Fossil Fuels
+South America,1988,130.5355152,Fossil Fuels
+South America,1989,134.9030716,Fossil Fuels
+South America,1990,129.4490765,Fossil Fuels
+South America,1991,130.8099009,Fossil Fuels
+South America,1992,138.0918783,Fossil Fuels
+South America,1993,140.1341567,Fossil Fuels
+South America,1994,143.2548591,Fossil Fuels
+South America,1995,159.8183905,Fossil Fuels
+South America,1996,170.3986113,Fossil Fuels
+South America,1997,178.7633704,Fossil Fuels
+South America,1998,198.4954684,Fossil Fuels
+South America,1999,218.6980174,Fossil Fuels
+South America,2000,225.6031168,Fossil Fuels
+South America,2001,236.8147271,Fossil Fuels
+South America,2002,235.4952812,Fossil Fuels
+South America,2003,249.0649503,Fossil Fuels
+South America,2004,271.6757946,Fossil Fuels
+South America,2005,279.1284865,Fossil Fuels
+South America,2006,289.1522921,Fossil Fuels
+South America,2007,307.8046415,Fossil Fuels
+South America,2008,334.7613492,Fossil Fuels
+South America,2009,324.528669,Fossil Fuels
+South America,2010,358.1214003,Fossil Fuels
+South America,2011,360.3090957,Fossil Fuels
+South America,2012,413.3347554,Fossil Fuels
+South America,2013,461.541972,Fossil Fuels
+South America,2014,482.0432078,Fossil Fuels
+South America,2015,493.8372475,Fossil Fuels
+South America,2016,469.0836568,Fossil Fuels
+South America,2017,442.7301271,Fossil Fuels
+South America,2018,427.8665201,Fossil Fuels
+South America,2019,405.5140158,Fossil Fuels
+Oceania,1985,104.3673261,Fossil Fuels
+Oceania,1986,102.4664295,Fossil Fuels
+Oceania,1987,110.028375,Fossil Fuels
+Oceania,1988,115.7935751,Fossil Fuels
+Oceania,1989,122.9687437,Fossil Fuels
+Oceania,1990,127.7265991,Fossil Fuels
+Oceania,1991,132.2092687,Fossil Fuels
+Oceania,1992,138.6500891,Fossil Fuels
+Oceania,1993,135.5279152,Fossil Fuels
+Oceania,1994,134.0297424,Fossil Fuels
+Oceania,1995,136.2347404,Fossil Fuels
+Oceania,1996,145.018167,Fossil Fuels
+Oceania,1997,162.0901834,Fossil Fuels
+Oceania,1998,161.2598908,Fossil Fuels
+Oceania,1999,176.2854666,Fossil Fuels
+Oceania,2000,168.2853202,Fossil Fuels
+Oceania,2001,189.5967851,Fossil Fuels
+Oceania,2002,183.6779558,Fossil Fuels
+Oceania,2003,189.3268394,Fossil Fuels
+Oceania,2004,189.05481,Fossil Fuels
+Oceania,2005,196.5620304,Fossil Fuels
+Oceania,2006,200.4084835,Fossil Fuels
+Oceania,2007,208.1895334,Fossil Fuels
+Oceania,2008,213.2364559,Fossil Fuels
+Oceania,2009,204.1850231,Fossil Fuels
+Oceania,2010,207.081387,Fossil Fuels
+Oceania,2011,201.7133034,Fossil Fuels
+Oceania,2012,208.1831737,Fossil Fuels
+Oceania,2013,201.28289,Fossil Fuels
+Oceania,2014,191.2606764,Fossil Fuels
+Oceania,2015,195.6731003,Fossil Fuels
+Oceania,2016,196.9035834,Fossil Fuels
+Oceania,2017,207.1097961,Fossil Fuels
+Oceania,2018,199.4085513,Fossil Fuels
+Oceania,2019,206.195747,Fossil Fuels
+Africa,1985,49.71868504,Renewables
+Africa,1986,51.8043733,Renewables
+Africa,1987,49.71446031,Renewables
+Africa,1988,54.21945635,Renewables
+Africa,1989,56.89321476,Renewables
+Africa,1990,58.02039046,Renewables
+Africa,1991,61.43948843,Renewables
+Africa,1992,58.68454167,Renewables
+Africa,1993,57.60020726,Renewables
+Africa,1994,58.42244858,Renewables
+Africa,1995,60.79587688,Renewables
+Africa,1996,63.58365177,Renewables
+Africa,1997,65.24833798,Renewables
+Africa,1998,68.37703716,Renewables
+Africa,1999,72.40018612,Renewables
+Africa,2000,77.70402079,Renewables
+Africa,2001,83.63190736,Renewables
+Africa,2002,87.93192313,Renewables
+Africa,2003,86.05922946,Renewables
+Africa,2004,91.18631075,Renewables
+Africa,2005,92.89529231,Renewables
+Africa,2006,96.9090656,Renewables
+Africa,2007,99.55696844,Renewables
+Africa,2008,101.8159416,Renewables
+Africa,2009,105.011743,Renewables
+Africa,2010,113.7543779,Renewables
+Africa,2011,117.3647358,Renewables
+Africa,2012,118.5551234,Renewables
+Africa,2013,126.4957468,Renewables
+Africa,2014,136.268948,Renewables
+Africa,2015,139.4768026,Renewables
+Africa,2016,139.2532203,Renewables
+Africa,2017,150.8288673,Renewables
+Africa,2018,162.5853915,Renewables
+Africa,2019,177.8050681,Renewables
+Asia,1985,224.0097061,Renewables
+Asia,1986,231.2248687,Renewables
+Asia,1987,244.9566505,Renewables
+Asia,1988,266.4313784,Renewables
+Asia,1989,274.1270886,Renewables
+Asia,1990,292.7458034,Renewables
+Asia,1991,281.7023936,Renewables
+Asia,1992,310.1689374,Renewables
+Asia,1993,338.0020738,Renewables
+Asia,1994,326.7565382,Renewables
+Asia,1995,362.9177133,Renewables
+Asia,1996,358.8058715,Renewables
+Asia,1997,347.1458872,Renewables
+Asia,1998,368.5699191,Renewables
+Asia,1999,341.9928352,Renewables
+Asia,2000,351.8647377,Renewables
+Asia,2001,382.3380664,Renewables
+Asia,2002,413.3241338,Renewables
+Asia,2003,433.5371786,Renewables
+Asia,2004,518.2460424,Renewables
+Asia,2005,545.0469808,Renewables
+Asia,2006,614.9859318,Renewables
+Asia,2007,643.1821566,Renewables
+Asia,2008,666.7531893,Renewables
+Asia,2009,659.076309,Renewables
+Asia,2010,778.1301396,Renewables
+Asia,2011,821.0585187,Renewables
+Asia,2012,942.4335633,Renewables
+Asia,2013,1059.65612,Renewables
+Asia,2014,1157.536172,Renewables
+Asia,2015,1211.443494,Renewables
+Asia,2016,1332.059509,Renewables
+Asia,2017,1466.548635,Renewables
+Asia,2018,1569.374207,Renewables
+Asia,2019,1826.891697,Renewables
+Europe,1985,514.0143635,Renewables
+Europe,1986,499.246603,Renewables
+Europe,1987,542.5717605,Renewables
+Europe,1988,581.4778114,Renewables
+Europe,1989,507.8676976,Renewables
+Europe,1990,522.2019635,Renewables
+Europe,1991,533.6367355,Renewables
+Europe,1992,551.9283888,Renewables
+Europe,1993,575.6630687,Renewables
+Europe,1994,584.2314524,Renewables
+Europe,1995,595.2984101,Renewables
+Europe,1996,579.6488904,Renewables
+Europe,1997,606.7019105,Renewables
+Europe,1998,641.2827712,Renewables
+Europe,1999,650.6159729,Renewables
+Europe,2000,682.5839559,Renewables
+Europe,2001,684.1001192,Renewables
+Europe,2002,651.3014839,Renewables
+Europe,2003,632.5493235,Renewables
+Europe,2004,699.0024204,Renewables
+Europe,2005,722.9815024,Renewables
+Europe,2006,736.8743618,Renewables
+Europe,2007,772.9623331,Renewables
+Europe,2008,831.9328529,Renewables
+Europe,2009,860.0674907,Renewables
+Europe,2010,963.3980379,Renewables
+Europe,2011,949.1847201,Renewables
+Europe,2012,1074.507236,Renewables
+Europe,2013,1168.40377,Renewables
+Europe,2014,1191.23212,Renewables
+Europe,2015,1261.247148,Renewables
+Europe,2016,1289.869454,Renewables
+Europe,2017,1301.458614,Renewables
+Europe,2018,1401.59506,Renewables
+Europe,2019,1469.124633,Renewables
+North America,1985,658.9831052,Renewables
+North America,1986,672.8875461,Renewables
+North America,1987,640.3120025,Renewables
+North America,1988,607.1788876,Renewables
+North America,1989,649.9218938,Renewables
+North America,1990,682.1739788,Renewables
+North America,1991,691.0594762,Renewables
+North America,1992,672.4505491,Renewables
+North America,1993,709.9386617,Renewables
+North America,1994,689.8294579,Renewables
+North America,1995,753.4811336,Renewables
+North America,1996,815.9048345,Renewables
+North America,1997,814.8272797,Renewables
+North America,1998,761.970132,Renewables
+North America,1999,781.0500912,Renewables
+North America,2000,750.9295099,Renewables
+North America,2001,660.7007562,Renewables
+North America,2002,731.7275325,Renewables
+North America,2003,726.3125986,Renewables
+North America,2004,731.1141346,Renewables
+North America,2005,766.3206022,Renewables
+North America,2006,788.5928879,Renewables
+North America,2007,768.2717866,Renewables
+North America,2008,818.8449991,Renewables
+North America,2009,840.6741986,Renewables
+North America,2010,847.4927998,Renewables
+North America,2011,960.0242555,Renewables
+North America,2012,948.1496642,Renewables
+North America,2013,987.8930237,Renewables
+North America,2014,1012.437249,Renewables
+North America,2015,1031.626168,Renewables
+North America,2016,1110.844794,Renewables
+North America,2017,1206.452725,Renewables
+North America,2018,1229.846212,Renewables
+North America,2019,1253.810823,Renewables
+South America,1985,289.5606803,Renewables
+South America,1986,312.2368997,Renewables
+South America,1987,333.1629972,Renewables
+South America,1988,345.6357238,Renewables
+South America,1989,354.0807825,Renewables
+South America,1990,369.2712733,Renewables
+South America,1991,393.8221283,Renewables
+South America,1992,403.4837919,Renewables
+South America,1993,433.3517746,Renewables
+South America,1994,459.2831584,Renewables
+South America,1995,476.7656513,Renewables
+South America,1996,498.3098494,Renewables
+South America,1997,527.3844689,Renewables
+South America,1998,539.3090568,Renewables
+South America,1999,542.2897187,Renewables
+South America,2000,570.8120936,Renewables
+South America,2001,538.2045716,Renewables
+South America,2002,566.0878089,Renewables
+South America,2003,591.1066376,Renewables
+South America,2004,610.5949705,Renewables
+South America,2005,647.0648952,Renewables
+South America,2006,677.5865292,Renewables
+South America,2007,706.3253095,Renewables
+South America,2008,715.1707763,Renewables
+South America,2009,736.7135952,Renewables
+South America,2010,751.9199328,Renewables
+South America,2011,798.3378602,Renewables
+South America,2012,794.6486886,Renewables
+South America,2013,783.8389001,Renewables
+South America,2014,775.1745731,Renewables
+South America,2015,779.0165199,Renewables
+South America,2016,812.5756497,Renewables
+South America,2017,843.2406735,Renewables
+South America,2018,880.1220767,Renewables
+South America,2019,898.8516692,Renewables
+Oceania,1985,82.24833271,Renewables
+Oceania,1986,91.37803273,Renewables
+Oceania,1987,92.84858856,Renewables
+Oceania,1988,98.06348385,Renewables
+Oceania,1989,101.6084097,Renewables
+Oceania,1990,104.7734664,Renewables
+Oceania,1991,102.9752969,Renewables
+Oceania,1992,98.19327271,Renewables
+Oceania,1993,105.1748399,Renewables
+Oceania,1994,114.1350741,Renewables
+Oceania,1995,119.1180115,Renewables
+Oceania,1996,115.0955327,Renewables
+Oceania,1997,106.0378937,Renewables
+Oceania,1998,117.1208971,Renewables
+Oceania,1999,112.6669314,Renewables
+Oceania,2000,115.8067771,Renewables
+Oceania,2001,109.9328387,Renewables
+Oceania,2002,120.2031286,Renewables
+Oceania,2003,116.1691126,Renewables
+Oceania,2004,129.8113525,Renewables
+Oceania,2005,117.6463486,Renewables
+Oceania,2006,121.8702825,Renewables
+Oceania,2007,127.5709514,Renewables
+Oceania,2008,125.6139435,Renewables
+Oceania,2009,138.3545892,Renewables
+Oceania,2010,147.670032,Renewables
+Oceania,2011,158.2797537,Renewables
+Oceania,2012,150.2660037,Renewables
+Oceania,2013,161.2818478,Renewables
+Oceania,2014,174.17273,Renewables
+Oceania,2015,176.6141329,Renewables
+Oceania,2016,197.6416846,Renewables
+Oceania,2017,200.1333733,Renewables
+Oceania,2018,207.5313738,Renewables
+Oceania,2019,222.5776208,Renewables

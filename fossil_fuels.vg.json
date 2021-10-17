@@ -1,0 +1,106 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": "container",
+    "height": 400,
+    "projection": {"type": "equalEarth", "rotate": [-150, 0, 0]},
+
+
+    "params": 
+    [
+          
+        {
+            "name": "year_select",
+            "value": 2019,
+            "bind":
+            {
+                "input": "range",
+                "min": 2000,
+                "max": 2019,
+                "step": 1,
+                "name": "Year"
+            }
+        }
+
+      
+    ],
+
+
+    "data": 
+    {
+        "url": "Data/Energy Data/World/share-electricity-fossil-fuels.csv"
+        
+    },
+
+    "mark": {"type": "geoshape", "stroke":" black"},
+
+
+    "transform": 
+    [
+        {"filter": "datum.Year == year_select"},
+
+
+        {
+            "lookup": "Code",
+        
+        
+            "from": 
+            {
+            "data":
+                {
+                    "url": "Data/world.topojson",
+                    "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+
+                },
+            "key": "properties.ISO_A3"
+            },
+            "as": "topo"
+        }
+    ],
+
+
+
+
+    "encoding": 
+    {
+        
+        "shape": 
+        {
+            "field":"topo",
+            "type":"geojson"
+        },
+
+        "color": 
+        {
+            "field": "Fossilfuels(%electricity)",
+            "type": "quantitative",
+
+            "scale": 
+            {
+        
+                "type": "log",
+                "domain":  [1, 80, 100],
+                "scheme": "reds"
+
+            },
+
+            "legend": 
+            {
+                "orient": "bottom-right"
+                
+            },
+            "title": "Percentage of Fossil Fuels"
+
+        },
+
+        "tooltip": 
+        [
+            {"field": "Entity", "type": "nominal", "title": "Country"},
+            {"field": "Year", "type": "quantitative"},
+            {"field": "Fossilfuels(%electricity)", "type": "quantitative", "format": ".2%", "title": "Share via Fossil Fuels"}
+        ]
+
+
+    }
+
+    
+}

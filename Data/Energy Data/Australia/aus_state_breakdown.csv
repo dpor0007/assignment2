@@ -1,0 +1,99 @@
+Region,gwh,source
+New South Wales,56431.885,Black_coal
+Victoria,0,Black_coal
+Queensland,50000.409,Black_coal
+Western Australia,9926.685,Black_coal
+South Australia,0,Black_coal
+Tasmania,0,Black_coal
+Northern Territory,0,Black_coal
+New South Wales,0,Brown_coal
+Victoria,33136.801,Brown_coal
+Queensland,0,Brown_coal
+Western Australia,0,Brown_coal
+South Australia,0,Brown_coal
+Tasmania,0,Brown_coal
+Northern Territory,0,Brown_coal
+New South Wales,2989.626,Natural_gas
+Victoria,3894.257,Natural_gas
+Queensland,10576.176,Natural_gas
+Western Australia,26179.972,Natural_gas
+South Australia,7530.274,Natural_gas
+Tasmania,608.322,Natural_gas
+Northern Territory,2578.865,Natural_gas
+New South Wales,327.747,Oil_products
+Victoria,195.257,Oil_products
+Queensland,1033.074,Oil_products
+Western Australia,2351.805,Oil_products
+South Australia,137.931,Oil_products
+Tasmania,19.014,Oil_products
+Northern Territory,1717.971,Oil_products
+New South Wales,59749.258,Non_renewable
+Victoria,37226.315,Non_renewable
+Queensland,61609.659,Non_renewable
+Western Australia,38458.462,Non_renewable
+South Australia,7668.206,Non_renewable
+Tasmania,627.336,Non_renewable
+Northern Territory,4296.836,Non_renewable
+New South Wales,1191.336,Biomass
+Victoria,789.907,Biomass
+Queensland,1339.322,Biomass
+Western Australia,131.979,Biomass
+South Australia,85.361,Biomass
+Tasmania,29.746,Biomass
+Northern Territory,8.287,Biomass
+New South Wales,4385.58,Wind
+Victoria,5358.63,Wind
+Queensland,730.452,Wind
+Western Australia,2158.175,Wind
+South Australia,5680.532,Wind
+Tasmania,1211.093,Wind
+Northern Territory,0,Wind
+New South Wales,3420.068,Hydro
+Victoria,960.683,Hydro
+Queensland,1064.546,Hydro
+Western Australia,217.117,Hydro
+South Australia,8.809,Hydro
+Tasmania,8758.651,Hydro
+Northern Territory,0.03,Hydro
+New South Wales,1685.942,Large-scale solar PV
+Victoria,739.688,Large-scale solar PV
+Queensland,2526.407,Large-scale solar PV
+Western Australia,95.511,Large-scale solar PV
+South Australia,410.915,Large-scale solar PV
+Tasmania,1.504,Large-scale solar PV
+Northern Territory,35.443,Large-scale solar PV
+New South Wales,3099.317,Small-scale solar PV
+Victoria,2159.358,Small-scale solar PV
+Queensland,3693.202,Small-scale solar PV
+Western Australia,1647.363,Small-scale solar PV
+South Australia,1546.021,Small-scale solar PV
+Tasmania,172.316,Small-scale solar PV
+Northern Territory,137.727,Small-scale solar PV
+New South Wales,4785.259,Total_Solar
+Victoria,2899.046,Total_Solar
+Queensland,6219.609,Total_Solar
+Western Australia,1742.874,Total_Solar
+South Australia,1956.936,Total_Solar
+Tasmania,173.82,Total_Solar
+Northern Territory,173.17,Total_Solar
+New South Wales,0,Geothermal
+Victoria,0,Geothermal
+Queensland,0,Geothermal
+Western Australia,0,Geothermal
+South Australia,0,Geothermal
+Tasmania,0,Geothermal
+Northern Territory,0,Geothermal
+New South Wales,13782.243,Renewable
+Victoria,10008.266,Renewable
+Queensland,9353.93,Renewable
+Western Australia,4250.146,Renewable
+South Australia,7731.638,Renewable
+Tasmania,10173.31,Renewable
+Northern Territory,181.488,Renewable
+New South Wales,73531.501,total
+Victoria,47234.58,total
+Queensland,70963.589,total
+Western Australia,42708.608,total
+South Australia,15399.843,total
+Tasmania,10800.646,total
+Northern Territory,4478.324,total

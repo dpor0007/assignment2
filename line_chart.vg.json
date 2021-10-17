@@ -1,0 +1,36 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": "container",
+    "height": 300,
+
+
+    "data": 
+    {
+        "url": "Data/Energy Data/World/for_line.csv"
+        
+    },
+
+    
+    "mark": "line",
+
+    "encoding": 
+    {
+        "x": {"field": "Year", "type": "temporal"},
+        "y": {"field": "amount", "type": "quantitative"},
+        "color": 
+        {
+            "field": "source",
+            "title": "Source",
+            "scale":
+            {
+                "range": ["red","green"]
+            }
+        }
+        
+    }
+               
+
+}
+
+
+

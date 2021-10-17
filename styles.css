@@ -1,0 +1,226 @@
+.body {
+    font-family: 'Source Sans Pro', 'Times New Roman', Times, serif;
+    
+}
+
+body {
+    background-color: lightgray;
+}
+
+.layout {
+    width: 1200px;
+    background-color: white;
+    margin: auto;
+    padding: 50px;
+    padding-top: 35px;
+}
+
+
+.pure-g {
+    width: 1200px;
+    margin-bottom: 15px;
+}
+
+h1 {
+    font-weight: 1000;
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Source Sans Pro', 'Times New Roman', Times, serif;
+}
+
+
+h2 {
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Source Sans Pro', 'Times New Roman', Times, serif;
+}
+
+
+h3 {
+    font-weight: 700;
+    font-family: 'Source Sans Pro', 'Times New Roman', Times, serif;
+}
+p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+
+}
+
+.wolrd_container {
+width: 100%;
+
+}
+.small_container {
+width: 100%;
+}
+
+.aus_container {
+	width: 100%;
+}
+
+.bar_container {
+	width: 100%;
+}
+
+
+
+.description h2,
+h1 {
+    margin-top: 0px;
+}
+
+
+.description-left {
+
+    padding-left: 40px;
+}
+
+.description-right {
+ 
+    padding-right: 40px;
+}
+
+.small_c
+{
+    padding-top: 50px;
+}
+
+.small-font {
+    font-size: 14px;
+}
+
+
+/*
+
+
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+    "params": 
+    [
+        {
+            "name": "year_select",
+            "value": 2019,
+            "bind":
+            {
+                "input": "range",
+                "min": 2000,
+                "max": 2019,
+                "step": 1,
+                "name": "Year"
+            }
+        },
+
+        {
+            "name": "energy_type",
+            "value": "Data/Energy Data/World/electricity-generation.csv",
+            "bind":
+            {
+                "input": "select",
+                "options":
+                [
+                    "Data/Energy Data/World/electricity-generation.csv",
+                    "Data/Energy Data/World/share-electricity-fossil-fuels.csv",
+                    "Data/Energy Data/World/share-electricity-renewables.csv"
+
+                ],
+                "labels": 
+                [
+                    "Total Energy",
+                    "Fossil Fuels Percentage",
+                    "Renewables Percentage"
+                ],
+                "name": "Energy Type "
+            }
+        }
+    ],
+
+
+
+    "vconcat": 
+    [
+        {
+            "width": "container",
+            "height": 400,
+      
+            "projection": {"type": "equalEarth", "rotate": [-150, 0, 0]},
+            "data": 
+            {
+                "url": "Data/world.topojson",
+                "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+            },
+           
+            "mark": {"type": "geoshape", "stroke":" black"},
+
+        
+            "transform": 
+            [
+                
+
+                {
+                    "lookup": "properties.ISO_A3",
+                
+                
+                    "from": 
+                    {
+                    "data":
+                        {
+                            "url": "Data/Energy Data/World/electricity-generation.csv"
+
+                        },
+
+                    "key": "Code",
+          
+    
+                    "fields": ["Entity","Year","ElectricityGeneration(TWh)"]
+                    
+                    }
+                }
+
+        
+
+            ],
+
+            "encoding": 
+            {
+                
+                "color": 
+                {
+                    "field": "ElectricityGeneration(TWh)",
+                    "type": "quantitative",
+                    "scale": 
+                    {
+                
+                        "type": "threshold",
+                        "domain":  [1, 10, 100],
+                        "scheme": "blues"
+            
+                    },
+                    "legend": 
+                    {
+                        "orient": "top-right"
+                        
+                    }
+         
+                },
+
+                "tooltip": 
+                [
+                    {"field": "properties.NAME", "type": "nominal", "title": "Country"},
+                    {"field": "Year", "type": "quantitative"},
+                    {"field": "ElectricityGeneration(TWh)", "type": "quantitative", "format": ".2f"}
+                ]
+            
+            
+            }
+        }
+
+       
+    ]
+
+
+    
+
+
+}
