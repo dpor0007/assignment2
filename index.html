@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+  
+  <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css" integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700;900&display=swap" rel="stylesheet">
+
+  <!-- CSS file -->
+  <link rel="stylesheet" type="text/css" href="styles.css" media="all">
+
+</head>
+<body>
+  
+<div class = "layout">
+
+
+  <div class="pure-g">
+
+    <div class="pure-u-1">
+      <h1>Energy in the World</h1>
+    </div>
+
+  </div>
+
+  <div class = "pure-g">
+
+
+  <div class = "pure-u-1">
+    <div id="world_map" class="wolrd_container"></div>
+  </div> 
+  
+
+</div>
+
+<div class="pure-g">
+ 
+  <div class="pure-u-1">
+    <h2>Share of Energy in the wolrd</h2>
+  </div>
+
+</div>
+
+  <div class = "pure-g">
+
+    <div class = "pure-u-1-2">
+      <div id="line" class="small_container"></div>
+
+    </div> 
+
+    <div class = "pure-u-1-2">
+      <div class="description description-left">
+        
+      <p>The global map shown is a representation of the total energy generated in the world. The data in the map is shown Terawatts-hours (TWh), a measure of energy showing the annual 
+        production of each country. The map, with then included slider is useful in showing how energy production over the years has increased. Particularly in the Afro Eurasian continent.
+      This is useful in showing which regions have continual development and which ones are more established. </p>
+      <p>In addition to the overall change, the type of fuel used can be see in the line chart bvy showing the percentage of fossil fules and percentage of renewables used. 
+        Wile energy sources ramined realtively steady for a while, there have been recent decreases in total fossil fuel usage and increase in renewable energy production. 
+        With the percenateg of renewable sources beginning to increase more since 2010.</p>
+     
+     
+      </div>
+    </div> 
+
+  </div>
+
+
+  <div class="pure-g">
+
+    <div class="pure-u-1">
+      <h2>Energy in Australia</h2>
+    </div>
+
+  </div>
+
+    <div class = "pure-g">
+      
+        <div class = "pure-u-1">
+          <div id="aus_map" class="aus_container"></div>
+        </div> 
+        
+      
+      </div>
+
+      <div class="pure-g">
+        <div class="pure-u-1">
+          
+          <p>It can be seen that Australia is diverse with its energy prodcution, with some soruces, such as brown coal only being produced in some states while others like Solar enegry 
+            are produced in all states.</p>
+          
+            <p>It can also be seen that there are areas of renewable such as geothermal energy which is not used anywhere but has potential as Australia is an island. The 
+              Nortern Territoty is also a potential for more production as it has the lowest proportion of Wind and Hydro energy produced.  The energy in the Australian map is presented GWh, which is 3 orders of magnitude lower than the TWh of the World Map. </p>
+         
+            </div>
+      </div>
+
+      <div class="pure-g">
+        <div class="pure-u-1">
+          <h2>Types of Electrcity Generation Per Continent</h2>
+        </div>
+    
+      </div>
+
+      <div class = "pure-g">
+  
+        
+          <div class = "pure-u-1">
+            <div id="world_map" class="wolrd_container"></div>
+          </div> 
+          
+        
+      </div>
+    
+      <div class = "pure-g">
+
+        <div class = "pure-u-1-2">
+          <div class="description description-right">
+          <p>From the bar chart on the right, Asia is shown as the continet with the most energy prodcution. 
+            This is expected as it is the largest continent and is home of countries with large populaitons, like China and India and coutnres with high poplaiton densites such as Japan and Korea.</p>
+         
+            <p>It can also be seen that Asia has seen am energy surge, overtaking Europes energy prodcution in the 1990's and North American prodcution in the ealry 2000's. 
+            However, it can be seen that most of its energy is fossil fule based.
+          Despite Renewable Energy sources increaseing over time, it can be seen that Fossil fules are still the predominant energy source and while some regions have seen a decrease in 
+          fossil fuel use, it can be seen that Asian produciton has not yet stopped increasing.</p> 
+          <p>As such, despite the overall trend of decreasing fossil fules and increasing renewables, there are still 
+        many areas of improvment in most regions </p>
+          </div>
+          </div> 
+          <div class = "pure-u-1-2">
+            <div id="bar_chart" class="bar_container"></div>
+          </div> 
+          
+        
+        </div>
+
+
+        <div class="pure-g">
+          <div class="pure-u-1-1">
+            <div class = "small_c">
+            <div class= "small-font">
+            <p1>This visualisation is created by <a href="https://github.com/dpor0007" target="_blank">Diego Portilla</a>. The datasources are <a href="https://ourworldindata.org/electricity-mix?country=" target="_blank">Our World in Data</href></a> and <a href="https://www.energy.gov.au/publications/australian-energy-update-2020" target="_blank">The Australian Government</href></a>.</p1>
+          </div>
+            </div> 
+        </div>
+        </div>
+        
+
+</div>
+
+
+<script type="text/javascript">
+
+
+  var spec2 = "whole_world.vg.json";
+  vegaEmbed('#world_map', spec2,{"actions": false}).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
+
+  var spec3 = "line_chart.vg.json";
+  vegaEmbed('#line', spec3,{"actions": false}).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
+
+
+  var spec5 = "aus_map.vg.json";
+  vegaEmbed('#aus_map', spec5,{"actions": false}).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
+
+  var spec6 = "region_bar.vg.json";
+  vegaEmbed('#bar_chart', spec6,{"actions": false}).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
+
+</script>
+
+</body>
+</html>
